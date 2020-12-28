@@ -9,6 +9,11 @@ html {
     width: 50%;
 }
 
+#image {
+    max-width: 100%;
+    display: block;
+}
+
 ul, ol {
     text-align: left;
     line-height: 2;
