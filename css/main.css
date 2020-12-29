@@ -5,16 +5,17 @@ html {
 
 #main {
     margin: auto;
-    text-align: center;
     width: 50%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    line-height: 2;
+    text-align: center;
 }
 
 #image {
-    max-width: 100%;
     display: block;
 }
 
-ul, ol {
+ul {
     text-align: left;
-    line-height: 2;
 }
