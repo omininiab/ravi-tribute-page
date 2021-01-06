@@ -5,7 +5,8 @@ html {
 
 #main {
     margin: auto;
-    width: 50%;
+    width: 90vw;
+    max-width: 750px;
     padding-top: 2.5%;
     padding-bottom: 2.5%;
     line-height: 2;
